@@ -1,5 +1,7 @@
 Testowe forum dla osób uprawiających sport działające lokalnie na serwerze postawionym na Linuxie za pomocą Apache2 i PHPBB3.
 
+KCNS to akronim od "Kocham chodzić na siłownię".
+
 
 ![image](https://github.com/Talachan12/ForumPHP/assets/121802413/0176f8a3-36ad-45fb-ae21-39a430fd433d)
 
